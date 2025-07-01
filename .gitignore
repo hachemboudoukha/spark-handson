@@ -12,3 +12,4 @@ output/
 # Ignorer les fichiers spécifiques à l'IDE
 .vscode/
 .idea/
+*.csv
