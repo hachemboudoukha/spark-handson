@@ -8,3 +8,18 @@ dist
 .pytest_cache
 .terraform*
 terraform.*
+# Ignorer les fichiers volumineux
+data/
+src/resources/exo4/sell.csv/
+
+# Ignorer les fichiers de sortie
+output/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
+
+# Ignorer les fichiers spécifiques à l'IDE
+.vscode/
+.idea/
+*.csv
