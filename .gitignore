@@ -1,5 +1,14 @@
-*.class
+# Ignorer les fichiers volumineux
+data/
+src/resources/exo4/sell.csv/
+
+# Ignorer les fichiers de sortie
+output/
+
+# Ignorer les fichiers temporaires
+*.tmp
 *.log
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Ignorer les fichiers spécifiques à l'IDE
+.vscode/
+.idea/
