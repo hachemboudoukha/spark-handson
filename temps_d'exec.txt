@@ -1,0 +1,27 @@
+-----------------------------------------------------------
+scala_udf
+
+Durée d'écriture: 37.075 secondes                                               
+--- Résumé ---
+Lecture:        8.822 secondes
+Transformation: 4.215 secondes
+Écriture:       37.075 secondes
+Total:          50.112 secondes
+--------------------------------------------------------------
+python_udf
+
+Durée d'écriture: 57.753 secondes                                               
+Lecture:        8.345 secondes
+Transformation: 3.944 secondes
+Écriture:       57.753 secondes
+Total:          70.042 secondes
+---------------------------------------------------------------
+no_udf
+
+Durée d'écriture: 45.750 secondes                                               
+
+--- Résumé ---
+Lecture:        9.181 secondes
+Transformation: 4.495 secondes
+Écriture:       45.750 secondes
+Total:          59.427 secondes
